@@ -1,14 +1,22 @@
-# 💫 About Me:
-### Hello! My name is Érica Paixão 🙋🏻‍♀️<br><br>- 💼 Working at WEX Brazil.<br>- 📚 Learning: HTML, CSS, JavaScript, Python.<br>- 💬 Ask me anything! I'm happy to help.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=98&color=A935F7)](https://capsule-render.vercel.app/api?type=waving&height=98&color=A935F7"/>
 
-# 🌐 Social Media:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ujKnrkef) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vaporub_dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erica-paixao-gois/) 
+<div align="center">
+  <samp>
+      I'm <b>Érica Paixão</b>
+  </samp>
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Tiny5&duration=3000&pause=1000&color=A935F7&width=435&center=true&vCenter=true&lines=Welcome+to+my+GitHub!;I+am+a+Systems+Analysis+and+Development+student)](https://git.io/typing-svg)
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,python,cs,js,html,css,bash,spring,nodejs,django,react,vue,jquery,postgres,mysql,linux,git,github,docker,svg" />
+</p>
 
-# 💻 Statistics:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VaporubDev&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VaporubDev&layout=compact&theme=radical&include_all_commits=true&locale=pt-br)
----
-[![](https://visitcount.itsvg.in/api?id=VaporubBerg&icon=2&color=10)](https://visitcount.itsvg.in)
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=VaporubDev&show_icons=true&theme=jolly&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaporubDev&layout=compact&theme=jolly&hide_border=true" />
+</p>
+
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vaporub_dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erica-paixao-gois/) 
+
+</div>
